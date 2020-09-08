@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For RTCAVRZero
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RTCAVRZero	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+enableAlarm	KEYWORD2
+disableAlarm	KEYWORD2
+attachInterrupt	KEYWORD2
+detachInterrupt	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
